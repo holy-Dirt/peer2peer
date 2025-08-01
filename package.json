@@ -1,0 +1,10 @@
+{
+  "name": "peer2peer",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "jest"
+  }
+}
